@@ -15,3 +15,5 @@ Make sure your code has connection by checking if "connected" is printed
 Then in Main.java you can edit the function calls from 38-44 to print table/add to table/update email in table/delete from table
 
 Then run code
+
+The video link: https://youtu.be/Lhkj2Blnb0g
