@@ -35,11 +35,11 @@ public class Main {
         }
 
         //calling functions
-        //getAllStudents();
+        getAllStudents();
 
-        //addStudent("Blair", "Phillipps", "bp@example.com", Date.valueOf("2024-03-17"));
+        addStudent("Blair", "Phillipps", "bp@example.com", Date.valueOf("2024-03-17"));
 
-        //updateStudentEmail(4, "blairphillipps@cmail.carleton.ca");
+        updateStudentEmail(4, "blairphillipps@cmail.carleton.ca");
 
         deleteStudent(4);
 
