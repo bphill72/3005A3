@@ -1,4 +1,4 @@
-package com.example;
+package q1.code;
 
 import java.beans.Statement;
 import java.sql.Connection;
@@ -39,9 +39,9 @@ public class Main {
 
         //addStudent("Blair", "Phillipps", "bp@example.com", Date.valueOf("2024-03-17"));
 
-        //updateStudentEmail(10, "blairphillipps@cmail.carleton.ca");
+        //updateStudentEmail(4, "blairphillipps@cmail.carleton.ca");
 
-        //deleteStudent(10);
+        deleteStudent(4);
 
         //catch errors
         } catch (Exception e) {
@@ -135,4 +135,3 @@ public class Main {
     }
 
 }
-
