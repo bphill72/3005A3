@@ -27,12 +27,12 @@ public class Main {
         connection = DriverManager.getConnection(url, user, password);
         
         //check if connection is there
-        // if(connection != null){
-        //     System.out.println("connected");
-        // }
-        // else{
-        //     System.out.println("not connected");
-        // }
+        if(connection != null){
+            System.out.println("connected");
+        }
+        else{
+            System.out.println("not connected");
+        }
 
         //calling functions
         //getAllStudents();
